@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Royal Casino",
+    "slug": "royal-casino",
+    "scheme": "royalcasino",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.example.royalcasino" },
+    "android": { "package": "com.example.royalcasino", "adaptiveIcon": { "backgroundColor": "#17120d" } },
+    "plugins": ["expo-router"]
+  }
+}
